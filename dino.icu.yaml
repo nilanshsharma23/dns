@@ -209,6 +209,9 @@ bedtime: # dristiroy@gmail.com U08R7L3E859
   ttl: 600
   type: CNAME
   value: cname.vercel-dns.com.
+betterschool: # richarddiscord@duck.com
+- type: A
+  value: 130.61.17.229
 betterwork-ai: # by https://heramb0x1.github.io/betterwork-ai
   ttl: 600
   type: CNAME
@@ -255,10 +258,13 @@ bucksite: # the.bucket020@gmail.com U0AF865SD2P
 - ttl: 600
   type: CNAME
   value: thebucket-ops.github.io.
+buddy: # shreyansh.offline@gmail.com
+- type: CNAME
+  value: shreyanshoffline.github.io.
 bugged: # piescrap23@gmail.com https://github.com/nilanshsharma23/bugged
 - ttl: 600
-  type: CNAME
-  value: bugged-ochre.vercel.app.
+  type: A
+  value: 216.198.79.1
 builders-club: #turtlesy1234@gmail.com U0AM2DYC3FB
 - ttl: 600
   type: CNAME
@@ -992,6 +998,9 @@ print:
   ttl: 600
   type: CNAME
   value: cname.vercel-dns.com.
+pronumberguessing: # jmcclendon8383@gmail.com
+- type: CNAME
+  value: jackm.hackclub.app.
 ptcg: # richarddiscord@duck.com
 - type: A
   value: 130.61.17.229
@@ -1362,6 +1371,9 @@ whoami: # cloudglides@proton.me U0A2EKA9FAL
 - ttl: 600
   type: A
   value: 216.198.79.1
+wiiuavi1: # @wiiuavi on slack, U08SB23AY7P
+- type: CNAME
+  value: wiiuavi.hackclub.app.
 wikibase: # wikibase for the Hack Club community, to be managed by @recaptime-dev team through @ajhalili2006
   ttl: 600
   type: CNAME
